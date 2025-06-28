@@ -1,0 +1,24 @@
+{
+  "name": "backend-p01",
+  "version": "1.0.0",
+  "description": "a backend to make a complex website ",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "homepage": "https://github.com/Avi974/Backend_P01#readme",
+  "bugs": {
+    "url": "https://github.com/Avi974/Backend_P01/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avi974/Backend_P01.git"
+  },
+  "license": "ISC",
+  "author": "Abhik Anand",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
